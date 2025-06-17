@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "SteveMarvin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18423533?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "SteveMarvin",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-06-17T15:01:08.191Z",
-    "updated_at": "2025-06-17T15:01:08.191Z"
-  }
+    "updated_at": "2025-06-17T15:01:08.191Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "19259964-34aa-4e5e-bd6a-8ffd2354324e": {
+      "content": [],
+      "created_at": "2025-06-17T15:01:08.213Z",
+      "created_by": "SteveMarvin",
+      "title": "250617-Test",
+      "updated_at": "2025-06-17T15:01:08.213Z",
+      "updated_by": "SteveMarvin",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "19259964-34aa-4e5e-bd6a-8ffd2354324e"
+  ]
 }
